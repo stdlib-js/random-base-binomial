@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-binomial",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Binomial distributed pseudorandom numbers.",
   "license": "Apache-2.0",
   "author": {
