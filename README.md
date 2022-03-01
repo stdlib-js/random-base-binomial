@@ -483,7 +483,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -496,8 +496,8 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/random-base-binomial.svg
 [npm-url]: https://npmjs.org/package/@stdlib/random-base-binomial
 
-[test-image]: https://github.com/stdlib-js/random-base-binomial/actions/workflows/test.yml/badge.svg
-[test-url]: https://github.com/stdlib-js/random-base-binomial/actions/workflows/test.yml
+[test-image]: https://github.com/stdlib-js/random-base-binomial/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/random-base-binomial/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-base-binomial/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-base-binomial?branch=main
