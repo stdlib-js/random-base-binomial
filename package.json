@@ -1,0 +1,44 @@
+{
+  "name": "@stdlib/random-base-binomial",
+  "version": "0.0.0",
+  "description": "Binomial distributed pseudorandom numbers.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/random-base-binomial.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "stdmath",
+    "mathematics",
+    "math",
+    "statistics",
+    "stats",
+    "prng",
+    "rng",
+    "pseudorandom",
+    "random",
+    "rand",
+    "randn",
+    "binomial",
+    "coin",
+    "flips",
+    "trials",
+    "generator",
+    "seed",
+    "seedable",
+    "factory",
+    "probability",
+    "prob"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
