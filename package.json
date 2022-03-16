@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-binomial",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Binomial distributed pseudorandom numbers.",
   "license": "Apache-2.0",
   "author": {
@@ -53,6 +53,7 @@
     "@stdlib/math-base-special-signum": "^0.0.x",
     "@stdlib/math-base-special-sqrt": "^0.0.x",
     "@stdlib/random-base-mt19937": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/types": "^0.0.x",
     "@stdlib/utils-constant-function": "^0.0.x",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.0.x",
