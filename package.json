@@ -53,7 +53,7 @@
     "@stdlib/math-base-special-signum": "^0.2.2",
     "@stdlib/math-base-special-sqrt": "^0.2.2",
     "@stdlib/random-base-mt19937": "^0.2.1",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2",
     "@stdlib/types": "^0.4.3",
     "@stdlib/utils-constant-function": "^0.2.2",
     "@stdlib/utils-define-nonenumerable-read-only-accessor": "^0.2.3",
